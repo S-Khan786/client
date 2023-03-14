@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+form {
+  margin: 20px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+button {
+  margin-top: 10px !important;
+}
+
+input {
+  margin-top: 10px !important;
+}
